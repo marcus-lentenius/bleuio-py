@@ -36,6 +36,9 @@ Starts a Bluetooth device scan with or without timer set in seconds.
 Scan a target device. Displaying it's advertising and response data as it updates.
 
 
+## SPS
+
+Set up two dongles and pass messages between them.
 
 ## About the BleuIO
 The BleuIO is Bluetooth low energy USB dongle that can be used to create new BLE 5.0 applications in the fastest and easiest way. Just use the AT Commands available on the device or use our Python/Javascript libraries for faster development.
